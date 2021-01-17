@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Toast, ToastBody, ToastHeader } from 'reactstrap';
 
 const portfolio = (props) => {
@@ -7,10 +8,10 @@ const portfolio = (props) => {
       <div className="p-3 my-2 rounded">
         <Toast>
           <ToastHeader>
-            Reactstrap
+            My first HTTP Page - Fan Page
           </ToastHeader>
           <ToastBody>
-            This is a toast on a white background — check it out!
+            <Link>https://lucianne302.github.io/FanPage/index.html"</Link>
           </ToastBody>
         </Toast>
       </div>
