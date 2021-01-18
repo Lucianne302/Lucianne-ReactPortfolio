@@ -7,6 +7,7 @@ import Contact from './pages/contact'
 import Portfolio from './pages/portfolio'
 import Resume from './pages/resume'
 import Nav from './pages/nav'
+import Footer from './pages/footer'
 
 function App() {
   return (
@@ -18,12 +19,12 @@ function App() {
           <Route exact path = '/Contact' component = { Contact } />
           <Route exact path = '/Portfolio' component = { Portfolio } />
           <Route exact path = '/Resume' component = { Resume } />
+          <Route exact path = '/Footer' component = { Footer } />
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
 }
-
-
 
 export default App;

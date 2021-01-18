@@ -5,6 +5,7 @@ const resume = (props) => {
   return (
     <List type="unstyled">
         <h1>My Resume</h1>
+        <a href='/Resume.pdf' download>Click to download</a>
         <br></br>
         <h4>Programming Languages (beginner)</h4>
         <li> 

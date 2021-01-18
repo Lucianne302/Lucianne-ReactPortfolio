@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 //import { Toast, ToastBody, ToastHeader } from 'reactstrap';
 import { Table } from 'reactstrap';
 
+
 const portfolio = (props) => {
   return (
     <Table hover>
@@ -59,6 +60,7 @@ const portfolio = (props) => {
         <td>git@github.com:Lucianne302/Team-Profile-Generator.git</td>
       </tr>
     </tbody>
+    <br></br>
   </Table>
 );
 }

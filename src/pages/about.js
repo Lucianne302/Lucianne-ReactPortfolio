@@ -6,7 +6,7 @@ function about() {
   return (
     <section className="my-5" >
       <h1 id="about">About Me! </h1>
-      <img src={coverImage} className="my-2" style={{ width: "20%" }} alt="cover" />
+      <img src={coverImage} className="my-2" style={{ width: "10%" }} alt="cover" />
       <div className="my-2">
         <p>
         As a student at the University of Pennsylvania, I am learning to code. Previous to learning to code, I completed a bachelor’s in Human Resource Management, and a Master’s in Business Administration from Goldey Beacom College.  For professional development, I completed certificates in Project Management and Business Analysis from the University of Delaware.  And, a Legal Studies Certificate from Wilmington University was completed in October 2016. And, I have about 13 years of experience working in the field of Human Resources.
