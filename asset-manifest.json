@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.14999c03.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.391553a0.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.391553a0.chunk.js.map",
-    "runtime-main.js": "/reactportfolio/static/js/runtime-main.c5063168.js",
-    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.c5063168.js.map",
-    "static/js/2.580edc1e.chunk.js": "/reactportfolio/static/js/2.580edc1e.chunk.js",
-    "static/js/2.580edc1e.chunk.js.map": "/reactportfolio/static/js/2.580edc1e.chunk.js.map",
-    "static/js/3.597e291c.chunk.js": "/reactportfolio/static/js/3.597e291c.chunk.js",
-    "static/js/3.597e291c.chunk.js.map": "/reactportfolio/static/js/3.597e291c.chunk.js.map",
-    "index.html": "/reactportfolio/index.html",
-    "static/css/main.14999c03.chunk.css.map": "/reactportfolio/static/css/main.14999c03.chunk.css.map",
-    "static/js/2.580edc1e.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.580edc1e.chunk.js.LICENSE.txt",
-    "static/media/lucianne.a39cf7e2.png": "/reactportfolio/static/media/lucianne.a39cf7e2.png"
+    "main.css": "/Lucianne-ReactPortfolio/static/css/main.14999c03.chunk.css",
+    "main.js": "/Lucianne-ReactPortfolio/static/js/main.391553a0.chunk.js",
+    "main.js.map": "/Lucianne-ReactPortfolio/static/js/main.391553a0.chunk.js.map",
+    "runtime-main.js": "/Lucianne-ReactPortfolio/static/js/runtime-main.59c04776.js",
+    "runtime-main.js.map": "/Lucianne-ReactPortfolio/static/js/runtime-main.59c04776.js.map",
+    "static/js/2.580edc1e.chunk.js": "/Lucianne-ReactPortfolio/static/js/2.580edc1e.chunk.js",
+    "static/js/2.580edc1e.chunk.js.map": "/Lucianne-ReactPortfolio/static/js/2.580edc1e.chunk.js.map",
+    "static/js/3.597e291c.chunk.js": "/Lucianne-ReactPortfolio/static/js/3.597e291c.chunk.js",
+    "static/js/3.597e291c.chunk.js.map": "/Lucianne-ReactPortfolio/static/js/3.597e291c.chunk.js.map",
+    "index.html": "/Lucianne-ReactPortfolio/index.html",
+    "static/css/main.14999c03.chunk.css.map": "/Lucianne-ReactPortfolio/static/css/main.14999c03.chunk.css.map",
+    "static/js/2.580edc1e.chunk.js.LICENSE.txt": "/Lucianne-ReactPortfolio/static/js/2.580edc1e.chunk.js.LICENSE.txt",
+    "static/media/lucianne.a39cf7e2.png": "/Lucianne-ReactPortfolio/static/media/lucianne.a39cf7e2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5063168.js",
+    "static/js/runtime-main.59c04776.js",
     "static/js/2.580edc1e.chunk.js",
     "static/css/main.14999c03.chunk.css",
     "static/js/main.391553a0.chunk.js"
