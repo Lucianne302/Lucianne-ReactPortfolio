@@ -1,22 +1,22 @@
 import React from 'react';
-import { Nav, NavItem, NavLink } from 'reactstrap';
-
+import { Nav, NavItem } from 'reactstrap';
+import {NavLink} from 'react-router-dom';
 const Example = (props) => {
   return (
     <div>
       <p>Lucianne Vazquez</p>
       <Nav>
         <NavItem>
-          <NavLink href="/About">About</NavLink>
+          <NavLink to="/About">About</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/Contact">Contact</NavLink>
+          <NavLink to="/Contact">Contact</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/Portfolio">Portfolio</NavLink>
+          <NavLink to="/Portfolio">Portfolio</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/Resume">Resume</NavLink>
+          <NavLink to="/Resume">Resume</NavLink>
         </NavItem>
       </Nav>
       <hr />
