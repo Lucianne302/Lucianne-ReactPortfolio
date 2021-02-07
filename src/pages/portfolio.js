@@ -60,7 +60,7 @@ const portfolio = (props) => {
         <td>git@github.com:Lucianne302/Team-Profile-Generator.git</td>
       </tr>
       <tr>
-        <th scope="row">4</th>
+        <th scope="row">7</th>
         <td>Give Christ First Clothing Company</td>
         <td>Third Team Project</td>
         <td><Link>https://gcfclothing.herokuapp.com/</Link></td>
