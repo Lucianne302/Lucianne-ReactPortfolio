@@ -61,7 +61,7 @@ const portfolio = (props) => {
       </tr>
       <tr>
         <th scope="row">4</th>
-        <td>Give Christ First Clothing Co.</td>
+        <td>Give Christ First Clothing Company</td>
         <td>Third Team Project</td>
         <td><Link>https://gcfclothing.herokuapp.com/</Link></td>
         <td>https://github.com/chender93/gcfclothing.git</td>
